@@ -1,3 +1,0 @@
-ToDo
-  * Close down all of the handles and doublecheck that everything closes
-  * Implement encryption
