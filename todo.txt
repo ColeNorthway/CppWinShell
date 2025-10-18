@@ -1,0 +1,5 @@
+Step By Step Windows Client Cleanup/Situator
+1) Clean up comments and spacing (DONE)
+2) Process response and exec sys command and send reply (HERE)
+  * Ok we got the cmd cmds (DONE)
+  * Now we need to get the pipe rediretion (HERE)

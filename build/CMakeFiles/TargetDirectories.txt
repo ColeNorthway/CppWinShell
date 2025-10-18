@@ -1,0 +1,3 @@
+C:/Users/q/Desktop/Coding Projects/C-C++/C++/self_projects/rev_shell_cpp/build/CMakeFiles/revShell.dir
+C:/Users/q/Desktop/Coding Projects/C-C++/C++/self_projects/rev_shell_cpp/build/CMakeFiles/edit_cache.dir
+C:/Users/q/Desktop/Coding Projects/C-C++/C++/self_projects/rev_shell_cpp/build/CMakeFiles/rebuild_cache.dir
