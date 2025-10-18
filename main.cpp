@@ -284,18 +284,3 @@ int main(int argc, char *argv[])
 	delete myShell;
 	return EXIT_SUCCESS;
 }
-
-/*
-PSEUDOCODE
-
-1) Client executes the command that is send back.
-  * Do some research on the heap
-    * Figure out how to allocate memory for our char array.
-	* Also determine the differences between the stack and the heap
-  * Sends back the response
-  *
-2) Implement Loop
-  * Executes command and return the stderr and stdout, then it will send the prompt again.
-  * Exits if the command is exit
-  * Or prints error as else
-*/
